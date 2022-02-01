@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.five.tips",
+		"package_name": "com.nightsgame.tips",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
